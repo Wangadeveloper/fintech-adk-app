@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# ADK session files
+.adk/
+my_agent/.adk/
+uploads/.adk/
+
+# Uploaded CSV files (optional)
+uploads/*.csv
+
+# Jupyter checkpoints (if using notebooks)
+.ipynb_checkpoints/
+

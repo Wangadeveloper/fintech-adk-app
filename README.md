@@ -1,0 +1,1 @@
+# fintech-adk-app

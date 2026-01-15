@@ -1,0 +1,6 @@
+flask
+google-adk
+google-genai
+pandas
+gunicorn
+python-dotenv
